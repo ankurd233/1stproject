@@ -1,0 +1,172 @@
+
+body{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  margin: 0;
+}
+header{
+  background-color: #e4f9ff;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+h1{
+font-family: 'Sacramento', cursive;
+color: #51A283;
+font-size: 80px;
+text-align: center;
+padding-top: 100px
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+text-align: center;
+  color: #51A283;
+  font-size: 40px
+
+}
+
+.img-one{
+  position: absolute;
+  right: 350px;
+  top: 50px;
+}
+
+.img-two{
+  position: absolute;
+  left: 270px;
+  bottom: 310px;
+}
+
+.bike{
+  border-radius: 100%;
+  height: 150px;
+  width: 150px;
+}
+
+.introduction{
+  width: 50%;
+  margin: auto;
+}
+
+p{
+  font-size: 20px;
+  line-height: 2;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+    color: #00AFC1;
+    margin-top: 50px;
+  }
+
+  .skill{
+    padding: 80px 0;
+  }
+
+  h3{
+        font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+
+
+  }
+  .img1{
+    height: 120px;
+    width: 120px;
+    float: left;
+    margin-right: 80px;
+  }
+
+  .img2{
+    height: 120px;
+    width: 120px;
+    float: right;
+    margin-left: 80px;
+  }
+
+  .img3{
+    height: 120px;
+    width: 120px;
+    float: left;
+    margin-right: 80px ;
+  }
+
+  .skill-portion{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+
+.skill-para{
+  font-size: 16px;
+}
+
+.last{
+  padding: 80px 0;
+
+}
+
+.last-portion{
+
+  margin: 100px auto;
+}
+
+.last-para{
+  line-height: 2;
+  font-size: 20px;
+  width: 40%;
+  margin: 35px auto;
+}
+
+
+.buttonClass {
+  font-size:15px;
+  font-family:Arial;
+  width:140px;
+  height:50px;
+  border-width:1px;
+  color:#fff;
+  border-color:rgba(255, 255, 255, 1);
+  border-top-left-radius:10px;
+  border-top-right-radius:10px;
+  border-bottom-left-radius:10px;
+  border-bottom-right-radius:10px;
+  box-shadow: 0px 0px 0px 2px rgba(22, 25, 25, 1);
+  text-shadow: 0px 1px 0px #283966;
+  background:linear-gradient(rgb(120, 146, 194), rgba(202, 216, 236, 1));
+  text-decoration: none;
+  padding: 15px;
+}
+
+.buttonClass:hover {
+  background: linear-gradient(rgba(202, 216, 236, 1), rgb(120, 146, 194));
+}
+
+.footer-portion{
+  background-color: #95D1CC;
+  padding: 60px;
+
+
+
+}
+
+.footer-link{
+
+  font-family: 'Sacramento', cursive;
+  font-size: 30px;
+  text-decoration: none;
+  margin: 20px;
+}
+
+.footer-para{
+font-size: 14px;
+}
+.footer-link:hover{
+  color: #ffffff;
+}
